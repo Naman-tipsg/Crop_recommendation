@@ -13,7 +13,12 @@ The model is trained on agricultural data and can accurately predict the most su
 ---
 
 
+## 📸 Project Preview
 
+<p align="center">
+  <img src="crop model .gif" alt="car Demo" width="700">
+</p>
+```
 
 # ✨ Features
 
